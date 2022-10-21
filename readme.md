@@ -43,3 +43,11 @@ We are looking for feedback to improve Education Pathways and make it more usefu
 ### Activity 1
 
 ![image](https://user-images.githubusercontent.com/14436239/197280721-3df909e2-cc8e-405c-b69b-539930ce6203.png)
+
+### Activity 2
+
+No code has been added to the CSS file yet, so the page looks unchanged. But the .css files have been linked as seen in the second screenshot.
+
+![image](https://user-images.githubusercontent.com/14436239/197293520-db000649-0ba4-4e74-8cde-f10836d7feec.png)
+![image](https://user-images.githubusercontent.com/14436239/197293410-658d69ce-a079-40ef-8210-3b3527adecc2.png)
+![image](https://user-images.githubusercontent.com/14436239/197293823-7520211c-1340-4a8b-a0f7-85a24a98b987.png)
