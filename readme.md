@@ -51,3 +51,11 @@ No code has been added to the CSS file yet, so the page looks unchanged. But the
 ![image](https://user-images.githubusercontent.com/14436239/197293520-db000649-0ba4-4e74-8cde-f10836d7feec.png)
 ![image](https://user-images.githubusercontent.com/14436239/197293410-658d69ce-a079-40ef-8210-3b3527adecc2.png)
 ![image](https://user-images.githubusercontent.com/14436239/197293823-7520211c-1340-4a8b-a0f7-85a24a98b987.png)
+
+### Activity 3
+
+Homepage:
+![image](https://user-images.githubusercontent.com/14436239/197364210-7fa35506-93d0-4b63-b5fd-997df08bf32e.png)
+
+Results:
+![image](https://user-images.githubusercontent.com/14436239/197364303-cc9af7c8-75ed-4cd1-899c-ac687f873852.png)
