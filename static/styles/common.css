@@ -1,10 +1,10 @@
-body {
+body{
     font-family: Verdana;
     padding: 40px;
     background-color: #C7F3FF;
 }
 
-h1, h3 {
+h1,h3{
     color: #00204E;
 }
 
@@ -13,7 +13,7 @@ h1, h3 {
     margin: 20px auto;
 }
 
-.common-page-form select, .common-page-form input{
+.common-page-form select,.common-page-form input{
     background-color: beige;
     border-radius: 5px;
     border-color: transparent;
