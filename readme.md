@@ -69,7 +69,12 @@ Results:
 ### Activity 5
 ![image](https://user-images.githubusercontent.com/14436239/197906963-d15ac0ed-42e5-4060-b1c3-e3b1a2281749.png)
 
-### Activity 5
+### Activity 6
+User Story 1.1:
+
+![image](https://user-images.githubusercontent.com/14436239/198170359-d2559a5e-b9a2-4525-993b-2bcab73f3576.png)
+![image](https://user-images.githubusercontent.com/14436239/198171274-6c40a7fd-7552-4779-9a8b-9a04d6f65098.png)
+
 User Story 6.1:
 ![image](images/UserStory6_1.png)
 ![image](images/APS360SyllabusNotFound.png)
@@ -77,6 +82,3 @@ User Story 6.1:
 User Story 6.2:
 ![image](images/UserStory6_2.png)
 ![image](images/APS360DownloadSyllabus.png)
-
-User Story ?:
-
