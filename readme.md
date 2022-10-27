@@ -68,3 +68,15 @@ Results:
 
 ### Activity 5
 ![image](https://user-images.githubusercontent.com/14436239/197906963-d15ac0ed-42e5-4060-b1c3-e3b1a2281749.png)
+
+### Activity 5
+User Story 6.1:
+![image](images/UserStory6_1.png)
+![image](images/APS360SyllabusNotFound.png)
+
+User Story 6.2:
+![image](images/UserStory6_2.png)
+![image](images/APS360DownloadSyllabus.png)
+
+User Story ?:
+
